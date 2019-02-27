@@ -1,2 +1,0 @@
-# obtestcomp
-obtestcomp
